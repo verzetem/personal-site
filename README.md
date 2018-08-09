@@ -4,7 +4,7 @@ Personal site
 
 ## About
 
-This is a project assignment to demonstrate knowledge of the HTML and CSS learned in the past 2 weeks.
+This is a project assignment to demonstrate knowledge of the HTML and CSS learned in the past 2 weeks. The object of this site is to outline the good qualities of the two main video games I am currently playing.
 
 ## Deployment 
 
