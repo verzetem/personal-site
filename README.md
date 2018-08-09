@@ -19,3 +19,4 @@ http://verzetem.github.io/personal-site
 ## Wireframe
 
 [Wireframe](https://wireframe.cc/)
+![My Wireframe](https://i.imgur.com/7RQlcWX.png)
