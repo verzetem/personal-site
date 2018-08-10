@@ -10,7 +10,7 @@ This is a project assignment to demonstrate knowledge of the HTML and CSS learne
 
 Deployment will be to Pages on GitHub.io. 
 
-http://verzetem.github.io/personal-site
+https://verzetem.github.io/personal-site
 
 ## Preview
 
