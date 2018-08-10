@@ -1,7 +1,7 @@
 html, body {
-  background-image: url("img/evebg.jpg");
-  background-image: linear-gradient(to bottom, rgba(84, 84, 84,0.3) 0%,rgba(84, 84, 84,0.3) 100%), url("img/evebg.jpg");
-  background-position: 60% 28%;
+  background-image: url("img/kcdbackdrop.jpg");
+  background-image: linear-gradient(to bottom, rgba(84, 84, 84,0.3) 0%,rgba(84, 84, 84,0.3) 100%), url("img/kcdbackdrop.jpg");
+  background-position: 60% 70%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   padding: 0;
@@ -11,12 +11,9 @@ html, body {
   height: 100%;
   background-color: #222;
 }
-.evesheets {
-  max-width: 50%;
-  max-height: auto;
-  padding-top: 2%;
-  padding-bottom: 2%;
-}
+
+
+
 
 .col-lg-12 {
   border: solid #000;
