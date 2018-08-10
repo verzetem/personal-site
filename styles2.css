@@ -17,12 +17,15 @@ html, body {
 .col-lg-12 {
   border: solid #000;
   margin-top: 10%;
-  padding: 10%;
+  padding: 4%;
   background-color: rgba(28, 28, 28,0.6);
   opacity: 0.8;
 }
 .content-box {
-  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
 }
 .give-me-space {
   margin-top: 5%;
