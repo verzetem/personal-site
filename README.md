@@ -1,6 +1,4 @@
-# Project Title
-
-Personal site 
+# Personal site 
 
 ## About
 
